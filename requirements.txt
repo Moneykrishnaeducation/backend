@@ -1,5 +1,6 @@
 apscheduler
 flask-mail
+flask-socketio
 Flask==3.1.0
 Flask-JWT-Extended==4.7.1
 Flask-SQLAlchemy==3.1.1
